@@ -1,0 +1,25 @@
+{
+    "language": "en-GB,en",
+    "enabled": true,
+    "version": "0.2",
+    "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
+    "readonly": true,
+    "dictionaryDefinitions": [
+        {
+            "name": "poe-dict",
+            "path": "./poe-dict.txt",
+            "description": "Path of Exile dictionary",
+            "addWords": true
+        },
+        {
+            "name": "extra-en-dict",
+            "path": "./extra-en-dict.txt",
+            "description": "Extra English dictionary",
+            "addWords": true
+        },
+    ],
+    "dictionaries": [
+        "poe-dict",
+        "extra-en-dict",
+    ],
+}
