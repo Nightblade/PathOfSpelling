@@ -28,7 +28,7 @@ All `*-dict.txt` files are:
 * Add the following lines to `.vscode/settings.json` in your project:
 ```json
 {
-  "CSpell.import": [ "../../pob-dict/cspell.json" ],
+  "CSpell.import": [ "../../PathOfSpelling/cspell.json" ],
   "CSpell.language": "en,en-GB"
 }
 ```
@@ -39,7 +39,7 @@ All `*-dict.txt` files are:
 
 To run a full scan of a local project, with some helpful options enabled:
 ```powershell
-PS C:\YourProject> cspell --config "..\pob-dict\cspell.json" --relative --show-context --no-progress "**"
+PS C:\YourProject> cspell --config "..\PathOfSpelling\cspell.json" --relative --show-context --no-progress "**"
 ```
 
 
