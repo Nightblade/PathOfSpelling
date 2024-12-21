@@ -1,6 +1,7 @@
 {
     "language": "en-GB,en",
     "enabled": true,
+    "maxNumberOfProblems": 10000,
     "version": "0.2",
     "$schema": "https://raw.githubusercontent.com/streetsidesoftware/cspell/main/cspell.schema.json",
     "readonly": true,
