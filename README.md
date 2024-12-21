@@ -1,6 +1,6 @@
 # PathOfSpelling
 
-Dictionary file for the [Path Of Exile](https://www.pathofexile.com) (PoE) game by [Grinding Gear Games](https://www.grindinggear.com) (GGG), with optional [Code Spell Checker](https://cspell.org/) (CSpell) config file.
+Dictionary file for the [Path Of Exile](https://www.pathofexile.com) (PoE) game by [Grinding Gear Games](https://www.grindinggear.com) (GGG), with example [Code Spell Checker](https://cspell.org/) (CSpell) config file.
 
 
 ## Components
@@ -8,12 +8,11 @@ Dictionary file for the [Path Of Exile](https://www.pathofexile.com) (PoE) game 
 | Filename                       | Description
 | ------------------------------ | -----------
 | [poe-dict.txt](poe-dict.txt) | Words specific to [Path of Exile](https://www.pathofexile.com/).
-| [extra-en-dict.txt](extra-en-dict.txt) | English words that have been used by GGG at some stage but are not currently in CSpell's dictionaries.
-| [cspell.json](cspell.json) | CSpell settings.
+| [cspell.json](cspell.json) | Example CSpell settings file.
 
-All `*-dict.txt` files are:
+`poe-dict.txt` file format:
 * plain-text
-* a single word per line
+* single word per line
 * sorted ascending (a-z), case-insensitive
 * `LF` terminated
 * `UTF-8` encoded

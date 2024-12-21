@@ -11,15 +11,8 @@
             "description": "Path of Exile dictionary",
             "addWords": true
         },
-        {
-            "name": "extra-en-dict",
-            "path": "./extra-en-dict.txt",
-            "description": "Extra English dictionary",
-            "addWords": true
-        },
     ],
     "dictionaries": [
         "poe-dict",
-        "extra-en-dict",
     ],
 }
