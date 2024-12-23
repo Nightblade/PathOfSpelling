@@ -592,6 +592,7 @@ dragonfang
 dragonfire
 dragonscale
 drakeling
+Draven
 dreadarc
 dreadbeak
 Dreadfist
@@ -1066,6 +1067,7 @@ ichimonji
 icius
 igna
 Igniferis
+ignoblest
 ignomon
 Ikiaho
 ilevel
@@ -1169,6 +1171,7 @@ karukaru
 Kasigi
 Kaso
 Kastov
+Keth
 keyblade
 khor
 Kiara
@@ -1755,6 +1758,7 @@ relicguard
 reliquarian
 Reliquarians
 renkarr
+Renly
 Repudion
 resourcelogcreate
 resourcelogmainresolve

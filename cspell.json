@@ -1,5 +1,7 @@
 {
     "language": "en-GB,en",
+    // NOTE: Only enable globRoot for local spellchecking, not CI!
+    //"globRoot": "../PathOfBuilding",
     "enabled": true,
     "maxNumberOfProblems": 10000,
     "version": "0.2",
