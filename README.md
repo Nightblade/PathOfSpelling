@@ -1,6 +1,8 @@
 # PathOfSpelling
 
-Dictionary file for the [Path Of Exile](https://www.pathofexile.com) (PoE) game by [Grinding Gear Games](https://www.grindinggear.com) (GGG), with example [Code Spell Checker](https://cspell.org/) (CSpell) config file.
+Dictionary file for [Path Of Exile](https://www.pathofexile.com) (PoE), a game by [Grinding Gear Games](https://www.grindinggear.com) (GGG).  Should also work with PoE2.
+
+Includes example [Code Spell Checker](https://cspell.org/) (CSpell) config file.
 
 
 ## Components
@@ -20,11 +22,13 @@ Dictionary file for the [Path Of Exile](https://www.pathofexile.com) (PoE) game 
 
 ## Installation
 
-### VSCode
+Nothing special, you can use `poe-dict.txt` as needed.
 
-* Checkout this repo to a directory that shares its parent dir with your project.
-* Install the [CSpell](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) extension.
-* Add the following lines to `.vscode/settings.json` in your project:
+### VSCode <sup><sub>(optional)</sub></sup>
+
+* Clone this repo to a local directory parallel to the project you wish to spellcheck such that the relative path `..\PathOfSpelling` is valid.
+* Install the [CSpell](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) VSCode extension.
+* Add the following lines to `.vscode\settings.json` in your project:
 ```json
 {
   "CSpell.import": [ "../../PathOfSpelling/cspell.json" ],
@@ -34,13 +38,17 @@ Dictionary file for the [Path Of Exile](https://www.pathofexile.com) (PoE) game 
 
 ### Command-line <sup><sub>(optional)</sub></sup>
 
+* Clone this repo to a local directory parallel to the project you wish to spellcheck such that the relative path `..\PathOfSpelling` is valid.
 * Install the [CSpell NPM package](https://www.npmjs.com/package/cspell).
 
-To run a full scan of a local project, with some helpful options enabled:
+Example:  Run a full scan of a local project, with some helpful options enabled:
 ```powershell
 PS C:\YourProject> cspell --config "..\PathOfSpelling\cspell.json" --relative --show-context --no-progress "**"
 ```
 
+## Contributing
+
+Contributions of any kind are welcome; please use GitHub's issue system.
 
 ## License
 
