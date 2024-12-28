@@ -533,7 +533,6 @@ degen
 deidbell
 deidbellow
 dekhara
-Delerium
 dementophobia
 demonfire
 demonflame
@@ -1109,7 +1108,6 @@ ironscale
 irontrap
 Ironweld
 ironwoodtotem
-Irresistable
 irwen
 isildria
 Isla
@@ -1580,6 +1578,7 @@ Ondar's
 ondars
 oozeback
 opden
+openarl
 opid
 opiloti
 orbala
@@ -1705,6 +1704,7 @@ pyromancer
 pyromancers
 pyromantic
 pyroshock
+Qarl
 Qianga
 Qiongqi
 Qotra
@@ -2144,7 +2144,6 @@ telvar
 Tempestology
 temu
 terese
-Testapus
 tetherein
 Tetzlapokal
 tevarus
@@ -2383,7 +2382,6 @@ vsync
 vulcanist
 vulconus
 waikoama
-Waistgate
 waitforpreload
 wandslinger
 warband
@@ -2395,7 +2393,6 @@ warcries
 warcry
 wardbreaker
 wardog
-Wareclast
 Wargraves
 warhammer
 warmaster
