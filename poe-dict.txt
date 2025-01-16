@@ -114,6 +114,7 @@ arthain
 Arvil's
 arwyn
 Arzaak
+Asala
 Asenath
 Asenath's
 asha
@@ -158,6 +159,7 @@ avarius
 aventail
 axehorn
 aylardex
+Azak
 azala
 azcapa
 Azis
@@ -167,6 +169,7 @@ azmerian
 azmerians
 azyran
 baeclast
+Bahlak
 balabus
 balah
 balbala
@@ -832,6 +835,7 @@ frostguard
 frostkeeper
 frostspewing
 frostspout
+Frostwall
 frostweaver
 frostwing
 Fulcent
@@ -931,6 +935,7 @@ graverobber
 graverobbers
 Gravicius
 Gravicius's
+Greathammer
 greatsword
 Greatswords
 greatwolf
@@ -1081,6 +1086,7 @@ impresence
 incaminion
 incarnatis
 indigon
+Infernalist
 Infernoclasp
 infernomage
 infernum
@@ -1215,6 +1221,7 @@ Kongor
 Kongor's
 konley
 konu
+Kopec
 Koralus
 korangi
 Korell
@@ -1659,6 +1666,7 @@ pitworm
 pitworms
 plaguebearer
 plaguebringer
+Plaguebringers
 plaguecrawler
 Plaguefinger
 plaguemaw
@@ -1710,6 +1718,7 @@ Qiongqi
 Qotra
 Qotra's
 Quatl's
+Quecholi
 quecholli
 questline
 questlines
@@ -1801,6 +1810,7 @@ Roths
 rothus
 rotmother
 rudiarius
+Rudja
 rukuku
 Rumblemarch
 Rumi
@@ -1862,6 +1872,7 @@ seaglass
 seawitch
 sebbert
 secutor
+Sekhamas
 sekhem
 sekhema
 sekhemas
@@ -1901,6 +1912,7 @@ shiversting
 shivrul
 Shiyo
 shockbomb
+Shockburst
 shocknova
 shockproofing
 shockwaves
@@ -1913,6 +1925,7 @@ siegebreaker
 silkweave
 silverbough
 silverbranch
+Silverfist's
 Silverthorne
 silverwood
 Sinvicta
@@ -1948,6 +1961,7 @@ slavedriver's
 slavemaster
 slitherpinch
 slitherskin
+Slitherspitters
 slivertongue
 snakepit
 snowblind
@@ -2273,6 +2287,7 @@ unshaping
 Unshattered
 unsquelch
 upconversion
+Urnwalkers
 uromoti
 ursaling
 ursus
@@ -2510,6 +2525,7 @@ Xoph
 Xoph's
 xoplotli
 xuatl
+Xyclucian
 yaksha
 Yaomac
 Yaomac's
@@ -2531,6 +2547,7 @@ zacharie
 zaffre
 zahndethus
 zalatl
+Zalmarath
 Zana
 Zana's
 zantipi
